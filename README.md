@@ -3,6 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
+<img src="https://github.com/Mirzaazmath/flutter_pagination/blob/main/assets/Simulator%20Screen%20Recording%20-%20iPhone%2013%20Pro%20Max%20-%202022-11-07%20at%2014.27.26.gif" height=400>
 
 This project is a starting point for a Flutter application.
 
